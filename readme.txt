@@ -13,4 +13,6 @@ https://muyu.tistory.com/entry/TCPIP-%EC%86%8C%EC%BC%93%ED%94%84%EB%A1%9C%EA%B7%
 우분투 리눅스 최초비번설정(Ubuntu Linux's first password setting) :
 https://studyforus.tistory.com/223
 
-
+리눅스 환경에서 c 언어 컴파일 하는 안내 문서 (instructions for compiling c languages in Linux environments):
+https://mer1.tistory.com/24
+gcc test1.c -o test1
