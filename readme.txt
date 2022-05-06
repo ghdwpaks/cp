@@ -31,3 +31,6 @@ gcc test1.c -o test1
 https://dolsup.work/tech-blog/different-ways-to-access-github-repository/
 https://velog.io/@rxdryd/git-clone-%EC%98%A4%EB%A5%98
 깃허브 측에서는 (보안상의 이유때문인지) 더이상 유저이름과 패스워드를 통한 저장소 접근 방식을 지원하지 않는다.
+
+https://driz2le.tistory.com/215
+리눅스에서 dev c++ 설치하기
